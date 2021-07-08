@@ -1,0 +1,4 @@
+com/fidality/model/ElevatorTest.java
+ com.fidality.model.ElevatorTest
+com/fidality/Strrategy/TestElevatorSelectionStrategy1.java
+ com.fidality.Strrategy.TestElevatorSelectionStrategy1

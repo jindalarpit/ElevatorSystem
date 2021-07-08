@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.fidality.Strrategy.TestElevatorSelectionStrategy1" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-07-08T06:57:16" hostname="ITEM-S66802" time="0.052">
+  <properties/>
+  <testcase name="testElevatorSelection()" classname="com.fidality.Strrategy.TestElevatorSelectionStrategy1" time="0.052"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
