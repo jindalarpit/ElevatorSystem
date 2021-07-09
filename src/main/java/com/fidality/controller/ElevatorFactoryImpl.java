@@ -32,6 +32,7 @@ public class ElevatorFactoryImpl implements ElevatorFactory {
             //wait for few seconds and retry
             return selectedElevator;
         } else {
+            selectedElevator.addDestinationFloor(floorNo);
             return selectedElevator;
         }
 
