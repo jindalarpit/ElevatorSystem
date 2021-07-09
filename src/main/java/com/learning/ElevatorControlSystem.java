@@ -1,8 +1,8 @@
-package com.fidality;
+package com.learning;
 
-import com.fidality.controller.ElevatorFactoryImpl;
-import com.fidality.model.Elevator;
-import com.fidality.model.RequestDirection;
+import com.learning.controller.ElevatorFactoryImpl;
+import com.learning.model.Elevator;
+import com.learning.model.RequestDirection;
 
 public class ElevatorControlSystem {
     public static final Integer REQUEST_FROM_FLOOR = 5;

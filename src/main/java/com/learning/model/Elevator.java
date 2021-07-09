@@ -1,6 +1,6 @@
-package com.fidality.model;
+package com.learning.model;
 
-import com.fidality.interfaces.ElevatorInterface;
+import com.learning.interfaces.ElevatorInterface;
 
 import java.util.Comparator;
 import java.util.TreeSet;

@@ -1,4 +1,4 @@
-package com.fidality.model;
+package com.learning.model;
 
 public enum ElevatorDirection {
     STOPPED,

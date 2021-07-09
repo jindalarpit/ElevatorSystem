@@ -1,10 +1,10 @@
-package com.fidality.controller;
+package com.learning.controller;
 
-import com.fidality.factory.ElevatorFactory;
-import com.fidality.model.Elevator;
-import com.fidality.model.RequestDirection;
-import com.fidality.strategy.ElevatorSelection;
-import com.fidality.strategy.ElevatorSelectionStrategy1;
+import com.learning.factory.ElevatorFactory;
+import com.learning.model.Elevator;
+import com.learning.model.RequestDirection;
+import com.learning.strategy.ElevatorSelection;
+import com.learning.strategy.ElevatorSelectionStrategy1;
 
 public class ElevatorFactoryImpl implements ElevatorFactory {
     private Elevator[] elevators;

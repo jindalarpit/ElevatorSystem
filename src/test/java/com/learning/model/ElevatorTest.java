@@ -1,6 +1,5 @@
-package com.fidality.model;
+package com.learning.model;
 
-import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 

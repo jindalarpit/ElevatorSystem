@@ -1,7 +1,7 @@
-package com.fidality.factory;
+package com.learning.factory;
 
-import com.fidality.model.Elevator;
-import com.fidality.model.RequestDirection;
+import com.learning.model.Elevator;
+import com.learning.model.RequestDirection;
 
 public interface ElevatorFactory {
     public Elevator requestElevator(RequestDirection requestDirection, Integer floorNo);

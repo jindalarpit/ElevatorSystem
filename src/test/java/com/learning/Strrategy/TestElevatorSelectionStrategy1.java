@@ -1,9 +1,9 @@
-package com.fidality.Strrategy;
+package com.learning.Strrategy;
 
-import com.fidality.model.Elevator;
-import com.fidality.model.RequestDirection;
-import com.fidality.strategy.ElevatorSelectionStrategy;
-import com.fidality.strategy.ElevatorSelectionStrategy1;
+import com.learning.model.Elevator;
+import com.learning.model.RequestDirection;
+import com.learning.strategy.ElevatorSelectionStrategy;
+import com.learning.strategy.ElevatorSelectionStrategy1;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 

@@ -1,6 +1,6 @@
-package com.fidality.interfaces;
+package com.learning.interfaces;
 
-import com.fidality.model.ElevatorDirection;
+import com.learning.model.ElevatorDirection;
 
 public interface ElevatorInterface {
     public int getCurrentFloor();

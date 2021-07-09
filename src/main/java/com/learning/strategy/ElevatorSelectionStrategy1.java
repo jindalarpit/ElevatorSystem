@@ -1,8 +1,8 @@
-package com.fidality.strategy;
+package com.learning.strategy;
 
-import com.fidality.model.Elevator;
-import com.fidality.model.ElevatorDirection;
-import com.fidality.model.RequestDirection;
+import com.learning.model.Elevator;
+import com.learning.model.ElevatorDirection;
+import com.learning.model.RequestDirection;
 
 public class ElevatorSelectionStrategy1 implements ElevatorSelectionStrategy{
     @Override
